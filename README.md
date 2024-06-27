@@ -18,5 +18,9 @@
 2. Install the required dependencies:
    pip install -r requirements.txt
 
-3.Run the tool
-  python3 archivantage.py
+3. Run the tool
+   python3 archivantage.py
+   Follow the prompts to enter the URL, years, keywords, and output formats.
+
+   License
+   This project is licensed under the MIT License.
