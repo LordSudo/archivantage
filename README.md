@@ -8,19 +8,33 @@
 - Search for specific keywords within the fetched snapshots.
 - Support for multiple output formats: text, CSV, JSON, and HTML.
 
-
 ## Installation
 
 1. Clone the repository:
-- git clone https://github.com/yourusername/archivantage.git
+- git clone https://github.com/LordSudo/archivantage.git
 - cd archivantage
+
+```bash
+git clone https://github.com/LordSudo/archivantage.git
+cd archivantage
+```
 
 2. Install the required dependencies:
 - pip install -r requirements.txt
 
+```bash
+pip install -r requirements.txt
+```
+
 3. Run the tool
 - python3 archivantage.py
 - Follow the prompts to enter the URL, years, keywords, and output formats.
+
+```bash
+python3 archivantage.py
+```
+
+- Follow the prompts to enter the `URL`, `years`, `keywords`, and `output formats`.
 
 ## License
    This project is licensed under the MIT License.
