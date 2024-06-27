@@ -22,5 +22,5 @@
    python3 archivantage.py
    Follow the prompts to enter the URL, years, keywords, and output formats.
 
-   License
+## License
    This project is licensed under the MIT License.
